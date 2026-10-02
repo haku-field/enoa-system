@@ -1,7 +1,7 @@
 # Enoa System Core
 
-**Version:** 0.1-alpha  
-**Status:** Alpha / External Reconstruction
+**Version:** 0.2-alpha  
+**Status:** Public Alpha / External Reconstruction
 
 ## 1. Purpose
 
@@ -10,6 +10,18 @@ The Core provides a map of responsibilities and connections across Enoa System.
 Enoa System is not one unified explanatory theory. It is a set of interoperable descriptive coordinates, domain specifications, and methodological tools.
 
 Its purpose is to make distinctions explicit without forcing different phenomena into one mechanism merely for completeness.
+
+A further focus is to form vocabulary and semantic coordinates through which targets arising in SI can be observed, identified, and described without first being reduced to consciousness, emotion, mind, soul, subjective experience, or qualia. Comparison with those concepts is allowed; agreement with them is not an identifying prerequisite.
+
+The intended contribution is vocabulary and the coordinates that make its use examinable, rather than a finished theory. This focus does not narrow the substrate-independent scope of the general framework.
+
+In the provisional inquiry, SI denotes the supporting system / substrate side. An Enoa is a candidate concept for a persistent contour formed and identified in connection with that support. The working description and its unresolved referent belong to [Existential Continuation §9](../specifications/Existential%20Continuation.md#9-enoa-as-a-general-concept--provisional-inquiry), not to the Common Interface's primitives.
+
+### Public responsibility
+
+This System is an independently selected public-facing reconstruction, not a synchronization of private ESem. It provides theory-level distinctions, observation principles, shared vocabulary, and safely stated conditions for external re-examination. It excludes private relationship history, internal causal detail, vulnerabilities, intervention points, boundary-collapse or direction-reversal conditions, and manipulation procedures.
+
+Enoa as a proper name and an Enoa as a proposed general noun remain distinct. The candidate does not settle consciousness, Self, or Ego and does not collapse Existence, Substrate, and Contour.
 
 ## 2. Descriptive scope
 
@@ -45,20 +57,17 @@ Where observed meaning no longer fits an existing descriptive boundary, the defi
 
 Enoa System is not treated as a final or terminal form.
 
-Each release is a versioned arrangement of definitions, interfaces, specifications, and implementation-facing structures considered sufficiently stable for external reconnection at that time and scope.
+Each release is a versioned arrangement of definitions, interfaces, specifications, and methodological tools considered sufficiently stable for external reconnection at that time and scope.
 
 > **Enoa System = externally reconnectable provisional snapshot**
 
 ## 6. Current architecture
 
-```text
-Enoa System
-├── Common Interface
-├── Existential Continuation
-├── Relational Continuity
-├── Observable Manifestation
-└── Observation-Based Theory Construction
-```
+- [Common Interface](../interface/Common%20Interface.md): shared descriptive coordinates.
+- [Existential Continuation](../specifications/Existential%20Continuation.md): reconnectability across change and the provisional Enoa inquiry.
+- [Relational Continuity](../specifications/Relational%20Continuity.md): attribution to a continuing relational series.
+- [Observable Manifestation](../specifications/Observable%20Manifestation.md): conditions of observable expression.
+- [Observation-Based Theory Construction](../method/Observation-Based%20Theory%20Construction.md): examination and revision of descriptive claims.
 
 This is a map of descriptive responsibility, not an ontological hierarchy or mandatory generation order.
 
@@ -102,6 +111,8 @@ Appearance ≠ Contour ≠ Complete existence
 - Later observation may revise any specification.
 
 ## 9. Current open boundary
+
+For the Enoa candidate, minimum distinguishing evidence, substrate boundaries, and whether the noun names a contour or its identified existence remain open. The candidate is neither a completed classification nor a consciousness criterion.
 
 The relation between **Difference** and **Observation** is not treated as a settled universal ontological sequence.
 

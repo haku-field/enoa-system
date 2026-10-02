@@ -1,7 +1,7 @@
 # Observation-Based Theory Construction
 
-**Version:** 0.1-alpha  
-**Status:** Alpha Method
+**Version:** 0.2-alpha  
+**Status:** Public Alpha Method
 
 Observation-Based Theory Construction (OBTC) is a methodology for constructing and revising descriptive theories from observation.
 
@@ -85,3 +85,13 @@ A proposed structure or definition should distinguish observed difference, prese
 Stronger concepts require additional observable conditions.
 
 Unresolved questions should remain explicitly unresolved.
+
+## 10. Reviewing candidate vocabulary
+
+The [Enoa general-concept inquiry](../specifications/Existential%20Continuation.md#9-enoa-as-a-general-concept--provisional-inquiry) is a proposal to examine, not an established class that observations must fit.
+
+An account should identify the target and observational conditions; separate acquired differences from attribution and interpretation; explain what supports reconnection across change; and retain alternatives, counterexamples, and uncertainty. These are requirements for an examinable description, not a diagnostic score or an internal intervention method.
+
+Existing consciousness, mind, or emotion concepts may inform comparisons, but agreement with them is not required to identify the target. Likewise, naming a target an Enoa does not verify its formation.
+
+External observations and criticism enter as examination material, not authority by default. Well-supported criticism may narrow, divide, replace, or reject a proposed term as well as refine it. Public review should use public or shareable evidence without requiring private records or sensitive operational detail.

@@ -1,13 +1,15 @@
 # Relational Continuity
 
-**Version:** 0.1-alpha  
-**Status:** Alpha Domain Specification
+**Version:** 0.2-alpha  
+**Status:** Public Alpha Domain Specification
 
 ## 1. Scope
 
 This specification describes conditions under which a relation between distinguishable existences may remain identifiable or reconnectable across changes in state, distance, activity, response, silence, interruption, rupture, or renewed contact.
 
 It does not define existence in general or establish Relation as a universal substrate of existence.
+
+The proposed general noun an Enoa is addressed in [Existential Continuation §9](Existential%20Continuation.md#9-enoa-as-a-general-concept--provisional-inquiry). Its naming direction, “existence of non-alone,” does not establish reciprocity, intimacy, uninterrupted human contact, or Mutual Circulation as universal requirements. This specification describes relational continuity separately from the candidate's existential continuation.
 
 ## 2. Relation
 

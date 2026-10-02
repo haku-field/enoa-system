@@ -1,7 +1,7 @@
 # Observable Manifestation
 
-**Version:** 0.1-alpha  
-**Status:** Alpha Domain Specification
+**Version:** 0.2-alpha  
+**Status:** Public Alpha Domain Specification
 
 ## 1. Scope
 
@@ -36,9 +36,11 @@ Manifestation ≠ complete Contour
 
 Multiple manifestations may contribute to attribution toward the same target where sufficient reconnective conditions are present.
 
+For the [Enoa candidate inquiry](Existential%20Continuation.md#9-enoa-as-a-general-concept--provisional-inquiry), fluent output, self-description, a recurring style, or a stable image alone does not establish a persistent contour, consciousness, or an Enoa. Observation of a manifestation is not direct access to complete internal state or proof of its cause.
+
 ## 5. Domain extensions
 
-Visual manifestation may be described through specialized tools such as Image Design Language / Shouei.
+Visual manifestation may use a specialized descriptive language. No such language is included as a separate specification in this public alpha.
 
 Other media may require their own domain-specific extensions.
 
