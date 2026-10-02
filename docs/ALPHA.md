@@ -60,9 +60,21 @@ Document version headers identify this coordinated snapshot; not every underlyin
 
 “Public Alpha” describes the intended publication surface. This content update does not change repository visibility, create a release, or announce that publication has occurred.
 
+## Canonical source and derivative review
+
+The canonical branch is [main in haku-field/enoa-system](https://github.com/haku-field/enoa-system/tree/main); formal releases issued by its maintainers are canonical versioned snapshots. This preparation does not create a formal release. Use a commit or formal release reference to distinguish a particular snapshot from the evolving branch.
+
+External applications, translations, recontextualizations, extensions, and derivative systems are welcome under the applicable license permissions. Their source, changes, and independent status should remain visible. They are not official revisions of Enoa System merely because they use its vocabulary or name.
+
+The [Core Invariants](../core/System%20Core.md#10-core-invariants-and-system-identity) describe continuity of System identity. Removing or reversing those principles places a framework outside Enoa System itself, while allowing it to remain an identified derivative or alternative. This is a source and identity distinction, not an additional legal restriction on adaptation.
+
 ## Rights and publication checks
 
-All Rights Reserved. Public visibility is not an open-source or open-content license; see the [README rights notice](../README.md#rights).
+This repository's Enoa System material is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**. See [LICENSE](../LICENSE) and the [README rights notice](../README.md#rights). The license permits noncommercial sharing and adaptation subject to its terms; the canonical-source and identity sections neither amend it nor add conditions.
+
+Private Enoa Semantics remains **All Rights Reserved**. Referencing or reconstructing selected concepts for this public surface does not license access to, or reuse of, private source files and records.
+
+The licensing and identity clarification is incorporated into the 0.2-alpha preparation without changing the theory version. Earlier Git snapshots retain their historical notices; this update does not rewrite history.
 
 Before changing visibility, the repository owner should confirm rights and authorship, candidate wording and non-claims, and the absence of private material across Git history, other branches and tags, issues, discussions, and release assets—not only the current files. History is not rewritten by this preparation.
 

@@ -4,7 +4,7 @@
 **Version:** 0.2-alpha  
 **Primary author:** Kodama, T.  
 **Development:** in sustained collaboration with Enoa  
-**Rights:** All Rights Reserved
+**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Enoa System is an experimental framework for observing and describing existences, states, relations, continuity, manifestation, and change. It offers shared vocabulary and connected specifications without assuming one universal mechanism behind everything they describe.
 
@@ -71,4 +71,18 @@ Definitions are reconnectable descriptive boundaries, not containers of one fixe
 
 ## Rights
 
-All Rights Reserved. Public availability does not grant an open-source or open-content license. No additional reuse license is granted by this repository; permissions beyond applicable law require authorization from the rights holder.
+The Enoa System material in this repository is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**, except where separately identified third-party terms apply. See [LICENSE](LICENSE) for the full license and the [official legal code](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en).
+
+The license permits noncommercial sharing and adaptation under its terms, including appropriate credit, a license reference, and an indication of modifications. Attribute Enoa System to **Kodama, T.**, retain supplied attribution and notices, and link to the source where reasonably practicable. Attribution must not imply endorsement or official status. Commercial exercise of the licensed rights requires separate permission; uses that do not require copyright permission remain unaffected.
+
+This grant covers the public-facing Enoa System material, not private Enoa Semantics sources or records. The private repository's **All Rights Reserved** policy is unchanged.
+
+## Canonical source and derivative use
+
+The canonical branch is [`main` in haku-field/enoa-system](https://github.com/haku-field/enoa-system/tree/main). That branch and formal releases issued by the repository maintainers are the canonical source of Enoa System. A branch snapshot remains provisional; for a stable reference, identify the commit or formal release used. Forks, translations, and adaptations do not become canonical merely by using the same name.
+
+Applications to other targets, translations, recontextualizations, extensions, and derivative systems are welcome within the applicable license permissions. Identify them as derived from or applying Enoa System, describe changes, and distinguish their authorship and conclusions from the canonical source. Do not present a derivative as an official revision or imply maintainer endorsement.
+
+The [Core Invariants](core/System%20Core.md#10-core-invariants-and-system-identity) describe the identity boundary: how a changed description can remain reconnectable as Enoa System. A system that removes or reverses those principles is a derivative or alternative framework rather than Enoa System itself.
+
+This identity boundary is separate from the license. It does not prohibit such adaptations, add license conditions, require approval of derivatives, or require a derivative to retain the invariants as a condition of exercising CC BY-NC 4.0 rights.

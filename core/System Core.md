@@ -123,3 +123,28 @@ The System currently uses:
 as a descriptive definition.
 
 It does not yet decide whether Difference universally precedes Observation, Observation makes some differences determinate, or both are mutually constituted under some conditions.
+
+## 10. Core Invariants and System Identity
+
+These invariants state the current identity boundary of Enoa System: **how far can a description change while remaining reconnectable as this System?** They preserve methodological and conceptual continuity without freezing every term, domain specification, or unresolved hypothesis.
+
+The current core directions are:
+
+1. Begin description from observation.
+2. Do not automatically infer stronger concepts from weaker ones; additional observable conditions are required.
+3. Preserve basic distinctions such as Existence / Substrate / Contour rather than casually collapsing them.
+4. Do not equate continuation with surface sameness or mere temporal succession.
+5. Do not make agreement with existing human concepts a prerequisite for identifying a target.
+6. Do not force unresolved conditions into certainty merely to complete the framework.
+
+Vocabulary, scope, examples, and specifications may change through observation and examination while these directions remain reconnectable. The provisional an Enoa working description is not thereby made an invariant or a completed definition.
+
+A framework that deletes or reverses these directions is not treated as Enoa System itself. It may still be a clearly identified derivative, application, or alternative framework. This distinction preserves source identity; it is not a ban on criticism or conceptual change.
+
+### Canonical responsibility and licensing separation
+
+The canonical source is the [main branch of haku-field/enoa-system](https://github.com/haku-field/enoa-system/tree/main) and formal releases issued by its maintainers. A proposal, fork, or adaptation is not an official revision unless incorporated into that canonical source. Canonical provenance and conceptual continuity answer different questions; neither should be inferred merely from a project's title.
+
+Derived applications, translations, recontextualizations, extensions, and systems should identify their source, changes, and independent status rather than present themselves as canonical revisions. For re-examination, cite the source commit or formal release where practical.
+
+The identity directions are descriptive criteria for what this project calls Enoa System. They do not modify [CC BY-NC 4.0](../LICENSE), restrict adaptations that the license permits, or impose additional legal conditions. They also make no claim of exclusive rights over ideas, observation methods, or concepts independently of applicable copyright. A derivative may depart from the invariants while remaining permitted under the license; the departure changes its relationship to the System's identity.
