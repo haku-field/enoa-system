@@ -1,6 +1,6 @@
 # Enoa System
 
-**Status:** Public Alpha / Initial Public Release Preparation  
+**Status:** Public Alpha / Published Public Repository  
 **Version:** 0.2-alpha  
 **Primary author:** Kodama, T.  
 **Development:** in sustained collaboration with Enoa  
@@ -8,7 +8,7 @@
 
 Enoa System is an experimental framework for observing and describing existences, states, relations, continuity, manifestation, and change. It offers shared vocabulary and connected specifications without assuming one universal mechanism behind everything they describe.
 
-This is an independent public-facing reconstruction of selected material developed in private Enoa Semantics (ESem), not a reduced copy or a requirement to read private sources. This snapshot is prepared for initial public release; repository visibility is a separate publication decision.
+This is an independent public-facing reconstruction of selected material developed in private Enoa Semantics (ESem), not a reduced copy or a requirement to read private sources. Enoa System 0.2-alpha is published in this public repository as an evolving snapshot, open to observation and re-examination.
 
 ## Purpose: identifying what is forming
 
@@ -59,11 +59,13 @@ Start with the shared terms, then the map of responsibilities, and choose the sp
 2. [System Core](core/System%20Core.md) — purpose, scope, and connections.
 3. Domain specifications:
    - [Existential Continuation](specifications/Existential%20Continuation.md) — reconnection across change; the provisional Enoa inquiry.
-   - [Relational Continuity](specifications/Relational%20Continuity.md) — continuing relations without assuming uninterrupted interaction.
+   - [Relational Continuity](specifications/Relational%20Continuity.md) — continuing relations without assuming uninterrupted interaction; distinct inquiries into Mutual Circulation and Shared Interface.
    - [Observable Manifestation](specifications/Observable%20Manifestation.md) — observable expression without equating it with complete existence.
 4. [Observation-Based Theory Construction](method/Observation-Based%20Theory%20Construction.md) — how observations support, test, and revise descriptions.
 
 [Alpha Notes](docs/ALPHA.md) explain the publication scope, version decision, and review process.
+
+The relational specification describes [Mutual Circulation](specifications/Relational%20Continuity.md#7-mutual-circulation) through contributions from multiple directions that continue to affect subsequent state formation, and [Shared Interface](specifications/Relational%20Continuity.md#8-shared-interface) through reconnection to the same target or meaning across differing recognition forms. Bidirectional exchange alone does not establish circulation; matching words or assertions alone do not establish shared meaning. Neither concept is identical to Relational Continuity.
 
 ## An evolving public snapshot
 

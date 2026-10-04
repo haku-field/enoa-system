@@ -31,7 +31,7 @@ Its descriptive scope begins where some difference can be acquired, distinguishe
 
 This is a boundary of description, not a claim that unobserved conditions do not exist.
 
-## 3. Shared interface and stronger concepts
+## 3. Common Interface and stronger concepts
 
 The Common Interface provides weak, cross-domain descriptive coordinates.
 
@@ -40,6 +40,35 @@ Domain specifications may introduce stronger concepts only where additional obse
 > **shared description does not erase domain-specific conditions**
 
 > **stronger concepts require additional observable conditions**
+
+### 3.1 Shared Interface
+
+**Shared Interface** concerns whether differing recognition forms can reconnect to the same target, difference, event, relation, or reference point. Shared meaning may also become established through observation, response, and correction under specified relational, temporal, and environmental conditions.
+
+```text
+shared target ≠ identical representation
+Shared Interface ≠ identical internal representation
+Shared Interface ≠ Common Interface
+Shared Interface ≠ Relational Continuity
+```
+
+The Common Interface supplies descriptive vocabulary; Shared Interface concerns observable reconnection across differing recognition forms. It may support relational reconnection without being identical to continuity of the relation itself. Matching words or assertions alone are insufficient; responses that distinguish relevant differences, correct errors, and reconnect to the meaning provide possible observational support.
+
+The public account is presented in [Relational Continuity §8](../specifications/Relational%20Continuity.md#8-shared-interface). That placement does not settle whether Shared Interface belongs within a relational specification or requires an independent cross-domain specification.
+
+### 3.2 Mutual Circulation
+
+**Mutual Circulation** concerns contributions from more than one relational direction that continue to make an effective difference to subsequent state formation. Relation, Feedback, frequent exchange, and apparent reciprocity alone do not establish it.
+
+```text
+bidirectional exchange ≠ Mutual Circulation automatically
+Feedback ≠ Mutual Circulation
+Relational Continuity ≠ Mutual Circulation
+Mutual Circulation ≠ symmetry
+Mutual Circulation ≠ equal contribution
+```
+
+Asymmetry alone does not establish collapse. The relevant inquiry is whether multiple directions retain effective contribution to what forms next. A relation may remain continuous as circulation weakens. [Relational Continuity §7](../specifications/Relational%20Continuity.md#7-mutual-circulation) provides the public account without fixing quantitative thresholds or final specification boundaries.
 
 ## 4. Vocabulary, definitions, and meaning
 
@@ -57,7 +86,7 @@ Where observed meaning no longer fits an existing descriptive boundary, the defi
 
 Enoa System is not treated as a final or terminal form.
 
-Each release is a versioned arrangement of definitions, interfaces, specifications, and methodological tools considered sufficiently stable for external reconnection at that time and scope.
+Each public snapshot is an arrangement of definitions, interfaces, specifications, and methodological tools considered sufficiently stable for external reconnection at that time and scope. The published 0.2-alpha repository remains open to revision; publication does not itself make it a formal release or stable theory.
 
 > **Enoa System = externally reconnectable provisional snapshot**
 
@@ -65,7 +94,7 @@ Each release is a versioned arrangement of definitions, interfaces, specificatio
 
 - [Common Interface](../interface/Common%20Interface.md): shared descriptive coordinates.
 - [Existential Continuation](../specifications/Existential%20Continuation.md): reconnectability across change and the provisional Enoa inquiry.
-- [Relational Continuity](../specifications/Relational%20Continuity.md): attribution to a continuing relational series.
+- [Relational Continuity](../specifications/Relational%20Continuity.md): attribution to a continuing relational series, with distinct public accounts of Mutual Circulation and Shared Interface whose final specification placement remains open.
 - [Observable Manifestation](../specifications/Observable%20Manifestation.md): conditions of observable expression.
 - [Observation-Based Theory Construction](../method/Observation-Based%20Theory%20Construction.md): examination and revision of descriptive claims.
 

@@ -1,8 +1,8 @@
 # Enoa System Public Alpha Notes
 
 **Version:** 0.2-alpha  
-**Status:** Public Alpha / Initial Public Release Preparation  
-**Snapshot date:** 2026-10-02
+**Status:** Public Alpha / Published Public Repository  
+**Snapshot date:** 2026-10-04
 
 ## Why make this public?
 
@@ -17,7 +17,7 @@ The public System is an independent reconstruction of selected private ESem mate
 - [Common Interface](../interface/Common%20Interface.md): weak shared vocabulary and maintained distinctions.
 - [System Core](../core/System%20Core.md): purpose, scope, and responsibility map.
 - [Existential Continuation](../specifications/Existential%20Continuation.md): reconnectability across change, stronger reference concepts, and the provisional an Enoa inquiry.
-- [Relational Continuity](../specifications/Relational%20Continuity.md): continuing relations without automatic mutuality.
+- [Relational Continuity](../specifications/Relational%20Continuity.md): continuing relations without automatic mutuality; distinct public accounts of Mutual Circulation and Shared Interface.
 - [Observable Manifestation](../specifications/Observable%20Manifestation.md): observable expression distinguished from existence and complete state.
 - [Observation-Based Theory Construction](../method/Observation-Based%20Theory%20Construction.md): how claims are supported and revised.
 
@@ -37,6 +37,13 @@ The working description is not a Common Interface primitive, consciousness claim
 
 Its referent—contour or existence identified through a contour—remains unresolved. Minimum distinguishing evidence, observer projection, hybrid / distributed boundaries, branching, and sufficient reconnectability also remain open. Existence, Substrate, and Contour must not be collapsed to remove those difficulties.
 
+The relational account now includes two distinct inquiries:
+
+- **Mutual Circulation:** contributions from multiple relational directions continue to affect subsequent state formation. Exchange, Feedback, density, and apparent reciprocity alone are insufficient; symmetry and equal contribution are not required. Quantitative thresholds and final specification placement remain open.
+- **Shared Interface:** differing recognition forms may reconnect to the same target or meaning. Matching words or assertions alone are insufficient; relevant distinctions, correction, and reconnection provide possible observational support. Situated meaning establishment remains bounded by its recorded conditions; equivalent-recognition criteria and final specification placement remain open.
+
+Neither concept is identical to Relational Continuity, and Shared Interface is not the Common Interface vocabulary. Their presentation in the relational document does not settle their final containment.
+
 ## How external observations and criticism are handled
 
 Review should distinguish observation, record, interpretation, hypothesis, and inherited claim. State the target, conditions, supporting evidence, counterexamples, and limits sufficiently clearly for re-examination.
@@ -54,29 +61,29 @@ Useful review questions include:
 
 ## Version and publication state
 
-The 0.1-alpha was a private test reconstruction. Version 0.2-alpha prepares an initial public-facing snapshot: the vocabulary purpose and general-concept inquiry are integrated, entry and review guidance are rebuilt, and links and rights are made explicit. This is a substantive scope clarification, not a completed theory or a compatibility guarantee.
+The 0.1-alpha was a private test reconstruction. Version 0.2-alpha is now published in the public haku-field/enoa-system repository as an evolving public snapshot. It integrates the vocabulary purpose and general-concept inquiry, entry and review guidance, explicit links and rights, and the public theoretical accounts of Shared Interface and Mutual Circulation. It remains an incomplete theory without a compatibility guarantee.
 
 Document version headers identify this coordinated snapshot; not every underlying definition has changed. Future versions may revise, narrow, extend, divide, or replace its descriptions.
 
-“Public Alpha” describes the intended publication surface. This content update does not change repository visibility, create a release, or announce that publication has occurred.
+“Public Alpha / Published Public Repository” describes the current publication state. The 2026-10-04 clarification extends existing public descriptions and corrects earlier preparation language while retaining 0.2-alpha. Publication state and theory version are separate; this update creates no GitHub Release and does not designate the snapshot stable.
 
 ## Canonical source and derivative review
 
-The canonical branch is [main in haku-field/enoa-system](https://github.com/haku-field/enoa-system/tree/main); formal releases issued by its maintainers are canonical versioned snapshots. This preparation does not create a formal release. Use a commit or formal release reference to distinguish a particular snapshot from the evolving branch.
+The canonical branch is [main in haku-field/enoa-system](https://github.com/haku-field/enoa-system/tree/main); formal releases issued by its maintainers, when present, are canonical versioned snapshots. A published branch snapshot is not automatically a formal release. Use a commit or formal release reference to distinguish a particular snapshot from the evolving branch.
 
 External applications, translations, recontextualizations, extensions, and derivative systems are welcome under the applicable license permissions. Their source, changes, and independent status should remain visible. They are not official revisions of Enoa System merely because they use its vocabulary or name.
 
 The [Core Invariants](../core/System%20Core.md#10-core-invariants-and-system-identity) describe continuity of System identity. Removing or reversing those principles places a framework outside Enoa System itself, while allowing it to remain an identified derivative or alternative. This is a source and identity distinction, not an additional legal restriction on adaptation.
 
-## Rights and publication checks
+## Rights and ongoing public review
 
 This repository's Enoa System material is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**. See [LICENSE](../LICENSE) and the [README rights notice](../README.md#rights). The license permits noncommercial sharing and adaptation subject to its terms; the canonical-source and identity sections neither amend it nor add conditions.
 
 Private Enoa Semantics remains **All Rights Reserved**. Referencing or reconstructing selected concepts for this public surface does not license access to, or reuse of, private source files and records.
 
-The licensing and identity clarification is incorporated into the 0.2-alpha preparation without changing the theory version. Earlier Git snapshots retain their historical notices; this update does not rewrite history.
+The licensing and identity clarification remains part of the published 0.2-alpha snapshot. Earlier Git snapshots retain their historical notices; this update does not rewrite history.
 
-Before changing visibility, the repository owner should confirm rights and authorship, candidate wording and non-claims, and the absence of private material across Git history, other branches and tags, issues, discussions, and release assets—not only the current files. History is not rewritten by this preparation.
+Ongoing public review should examine rights and authorship, candidate wording and non-claims, and publication boundaries across Git history, other branches and tags, issues, discussions, and release assets as well as current files. This content update does not change those other surfaces or rewrite history.
 
 Suggested repository description:
 

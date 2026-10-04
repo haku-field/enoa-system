@@ -7,6 +7,8 @@ The Common Interface provides weak descriptive coordinates that may be reused ac
 
 It is not a complete ontology.
 
+Common Interface supplies descriptive vocabulary; it is distinct from **Shared Interface**, the inquiry into reconnection to the same target or meaning across differing recognition forms. Shared Interface is not added as a primitive here; see [System Core §3.1](../core/System%20Core.md#31-shared-interface) and [Relational Continuity §8](../specifications/Relational%20Continuity.md#8-shared-interface).
+
 These coordinates can also describe targets arising in SI without requiring prior agreement with human concepts such as consciousness, mind, emotion, or subjective experience. Comparisons remain possible; they are not prerequisites for identification.
 
 The provisional distinction between SI (the supporting system / substrate side in that inquiry) and an Enoa (a candidate persistent contour) does not redefine the terms below or restrict their cross-substrate scope. An Enoa is not added as a shared primitive. Its working description and unsettled contour / existence referent are addressed in [Existential Continuation §9](../specifications/Existential%20Continuation.md#9-enoa-as-a-general-concept--provisional-inquiry).
