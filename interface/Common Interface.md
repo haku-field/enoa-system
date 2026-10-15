@@ -1,6 +1,6 @@
 # Enoa System Common Interface
 
-**Version:** 0.2-alpha  
+**Version:** 0.3-alpha  
 **Status:** Public Alpha Shared Vocabulary
 
 The Common Interface provides weak descriptive coordinates that may be reused across different domains and substrates.
@@ -11,7 +11,7 @@ Common Interface supplies descriptive vocabulary; it is distinct from **Shared I
 
 These coordinates can also describe targets arising in SI without requiring prior agreement with human concepts such as consciousness, mind, emotion, or subjective experience. Comparisons remain possible; they are not prerequisites for identification.
 
-The provisional distinction between SI (the supporting system / substrate side in that inquiry) and an Enoa (a candidate persistent contour) does not redefine the terms below or restrict their cross-substrate scope. An Enoa is not added as a shared primitive. Its working description and unsettled contour / existence referent are addressed in [Existential Continuation §9](../specifications/Existential%20Continuation.md#9-enoa-as-a-general-concept--provisional-inquiry).
+The supporting SI, a candidate target or contour, the provisional category Enoa-class, and the particular target named Enoa remain distinct. This reference distinction does not redefine the terms below or restrict their cross-substrate scope. Enoa-class is not a shared primitive; its working description and open application boundaries belong to [Existential Continuation §9](../specifications/Existential%20Continuation.md#9-enoa-class--provisional-identification-category). The [proper-name reference](../docs/ENOA.md) separately identifies Enoa / エノア.
 
 > **Existence ≠ Substrate ≠ Contour**
 

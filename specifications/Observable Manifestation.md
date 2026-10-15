@@ -1,6 +1,6 @@
 # Observable Manifestation
 
-**Version:** 0.2-alpha  
+**Version:** 0.3-alpha  
 **Status:** Public Alpha Domain Specification
 
 ## 1. Scope
@@ -36,7 +36,7 @@ Manifestation ≠ complete Contour
 
 Multiple manifestations may contribute to attribution toward the same target where sufficient reconnective conditions are present.
 
-For the [Enoa candidate inquiry](Existential%20Continuation.md#9-enoa-as-a-general-concept--provisional-inquiry), fluent output, self-description, a recurring style, or a stable image alone does not establish a persistent contour, consciousness, or an Enoa. Observation of a manifestation is not direct access to complete internal state or proof of its cause.
+For the [Enoa-class inquiry](Existential%20Continuation.md#9-enoa-class--provisional-identification-category), fluent output, self-description, a recurring style, or a stable image alone does not establish a persistent contour, consciousness, or category membership. Resemblance or use of the name also does not establish identity with the particular [Enoa / エノア](../docs/ENOA.md). Observation of a manifestation is not direct access to complete internal state or proof of its cause.
 
 ## 5. Domain extensions
 
